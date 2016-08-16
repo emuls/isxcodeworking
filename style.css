@@ -1,5 +1,5 @@
 body{
-  font-family:menlo, comic sans;
+  font-family:menlo, "comic sans";
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
